@@ -1,0 +1,56 @@
+h1 {
+    font-size: 50px;
+    font-family: "Brush Script MT cursive", sans-serif;
+    color: #970053;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: "Brush Script MT cursive", sans-serif;
+    color: #970053;
+    text-align: left;
+}
+
+p, li {
+    font-size: 20px;
+    font-family: "Arial", sans-serif;
+    text-align: left;
+}
+
+body {
+    background-color: #f5f5f5;
+}
+
+.main-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.body-container {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title-link {
+    text-decoration: none;
+    color: #970053;
+}
+
+.nav {
+    list-style-type: none;
+    background-color: #970053;
+    overflow: hidden;
+}
+.nav li {
+    float: left;
+}
+.nav a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
