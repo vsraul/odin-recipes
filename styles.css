@@ -43,6 +43,8 @@ body {
     list-style-type: none;
     background-color: #970053;
     overflow: hidden;
+    display: flex;
+    justify-content: space-evenly;
 }
 .nav li {
     float: left;
